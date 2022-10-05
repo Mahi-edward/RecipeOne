@@ -1,0 +1,82 @@
+
+
+-------------- Colors ----------------
+greenColor:#78bf4d
+orangeColor:#fc834b
+whiteColor:#fff
+navigationBarColor:rgba(32, 37, 43, 0.7)
+cardGreenTransparent:rgba(120, 191, 77, 0.85)
+cardOrangeTransparent:rgba(252, 131, 75, 0.85)
+MainHead--black:#20252b , blogsTabs : #20252b,ChefName : #20252b
+lightGreySubText:#818181, Tabs #818181
+subTextPara:#6e6e6e
+formBorder:#d3d3d3 
+footerlightGrey:#ddd
+
+-------------- Titles ----------------
+MainSliderHeading => h2
+SliderTopSideContent => h6
+SectionHeading => h3
+AchiveHeading => h5
+Testimonials ChefName => h4
+
+-------------- FontSizes --------------
+
+Main-Maximum ==> 70px
+SectionHeading ==> 40px
+Card Heading,Achive Heading ==> 24px
+Card Text,Achive Text ==> 16px
+Card Footer ==> 14px
+Testimonials ChefName ==> 32px
+
+//Navigation Bar ==> 100px
+//Section ==> 100vh
+
+
+
+-------------- Components --------------
+Navigation Bar ==> Header      
+HeroSection ==> MainSection
+Cooking Classes => Card
+video+content ==> videoContent
+Testimonials ==> Slider
+TimeTable Classes => Card
+
+Faq ==> Map,accordion
+OUR TEAM ==> our team card
+our form ==>  Forms
+LATEST NEWS ==> blogCard 
+discount ==> discount 
+Footer ==> Footer
+
+
+
+------------ Components FileNames ------------
+Header.js
+Hero.js
+OurCooking.js
+Achive.js
+Testimonials.js
+TimeTable.js
+
+FAQ.js
+OurTeam.js
+Form.js
+News.js
+Discount.js
+Footer.js
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
